@@ -4,5 +4,6 @@ description: >
   developer.
 author: Marian Zaplatynski
 theme: jekyll-theme-slate
+repository: "zaplatynski/zaplatynski.github.io"
 gems:
    - jekyll-seo-tag
