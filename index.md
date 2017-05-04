@@ -1,5 +1,6 @@
 ---
 title: Java, Maven, FirstSpirit & More
+author: "Marian Zaplatynski"
 ---
 
 # FirstSpirit Maven Package Type
