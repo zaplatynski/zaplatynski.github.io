@@ -3,6 +3,6 @@ description: >
   This is a collection of small OpenSource projects related with my work as software
   developer.
 author: Marian Zaplatynski
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 gems:
   - jekyll-seo-tag
