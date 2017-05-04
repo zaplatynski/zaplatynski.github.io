@@ -4,8 +4,7 @@ title: Java, Maven, FirstSpirit & More
 
 # Welcome!
 
-This FirstSpirit module is meant to be a personal study project and a small help at a time where a 
-logging feature was missing.
+This is a collection of small OpenSource projects related with my work as software developer.
 
 
 ## FirstSpirit Maven Package Type

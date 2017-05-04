@@ -1,5 +1,8 @@
 title: Java, Maven, FirstSpirit & More
 description: >
-  This is a collection of small OpenSource Projects related with my work as software
+  This is a collection of small OpenSource projects related with my work as software
   developer.
+author: Marian Zaplatynski
 theme: jekyll-theme-slate
+gems:
+  - jekyll-seo-tag
