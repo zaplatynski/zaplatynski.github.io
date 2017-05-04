@@ -5,4 +5,4 @@ description: >
 author: Marian Zaplatynski
 theme: jekyll-theme-slate
 gems:
-  - jekyll-seo-tag
+   - jekyll-seo-tag
