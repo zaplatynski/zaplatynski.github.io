@@ -3,9 +3,15 @@ title: Java, Maven, FirstSpirit & More
 author: "Marian Zaplatynski"
 ---
 
-# FirstSpirit Maven Package Type
+# Maven Archive Package Type
 
-The FirstSpirit Maven Package Type helps you to build FirstSpirit module with Maven. Have a look at
+The Maven archive package type helps you to build projects which only wants to zip files together. 
+Have a look at
+[github.com/zaplatynski/archive-packagetype](https://github.com/zaplatynski/archive-packagetype).
+
+# FirstSpirit Module Maven Package Type
+
+The FirstSpirit Maven package type helps you to build FirstSpirit module with Maven. Have a look at
 [zaplatynski.github.io/fsm-packagetype](https://zaplatynski.github.io/fsm-packagetype/).
 
 # FirstSpirit Library Creator
